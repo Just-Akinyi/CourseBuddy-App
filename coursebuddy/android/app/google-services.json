@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998718300829",
+    "project_id": "course-budy",
+    "storage_bucket": "course-budy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998718300829:android:4cc98261ca64459fa0aa74",
+        "android_client_info": {
+          "package_name": "com.techtalktechnologies.coursebuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA45wE3kdpzHMdR_8YwouPwvyDYOaiYyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
